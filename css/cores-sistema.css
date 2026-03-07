@@ -1,0 +1,27 @@
+:root{
+    /* Geral */
+    --cor-principal: #0F0F0F;
+    --cor-secundaria: #1A1A1A;
+    --detalhes: #AB966F;
+    --detalhes-destaque: #D3BE97;
+    --sombras: #000000;
+
+    /* Botões */
+    --btn-padrao: #2A2A2A;
+    --btn-hover: #3A3A3A;
+    --btn-negativo: #8B2E2E;
+    --btn-positivo: #2E5B8B;
+
+    /* Formulários */
+    --form-corpo: #161616;
+    --form-entrada: #222222;
+    --form-borda: #8E7A55;
+    --form-foco: #C6B083;
+
+    /* Textos */
+    --form-placeholder: #6E6E6E;
+    --txt-principal: #E6E0D2;
+    --txt-secundario: #BFB7A4;
+    --txt-observacoes: #8C8574;
+    --txt-destaque: #D6C089;
+}

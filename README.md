@@ -12,7 +12,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>MySQL</li>
+    <li>JSON</li>
 </ul>
 
 <h2>Telas e Funções</h2>
