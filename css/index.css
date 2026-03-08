@@ -1,0 +1,11 @@
+h2{
+    margin-bottom: .5em;
+}
+
+p{
+    margin: .25em 0;
+}
+
+strong{
+    color: var(--txt-destaque);
+}

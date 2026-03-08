@@ -1,27 +1,27 @@
 :root{
     /* Geral */
-    --cor-principal: #0F0F0F;
-    --cor-secundaria: #1A1A1A;
-    --detalhes: #AB966F;
-    --detalhes-destaque: #D3BE97;
-    --sombras: #000000;
+    --cor-principal: #050814;
+    --cor-secundaria: #0D1330;
+    --detalhes: #6A6BFF;
+    --detalhes-destaque: #A88CFF;
+    --sombras: #02030A;
 
     /* Botões */
-    --btn-padrao: #2A2A2A;
-    --btn-hover: #3A3A3A;
-    --btn-negativo: #8B2E2E;
-    --btn-positivo: #2E5B8B;
+    --btn-padrao: #5F74FF;
+    --btn-hover: #7F92FF;
+    --btn-negativo: #FF4D6D;
+    --btn-positivo: #29C8FF;
 
     /* Formulários */
-    --form-corpo: #161616;
-    --form-entrada: #222222;
-    --form-borda: #8E7A55;
-    --form-foco: #C6B083;
+    --form-corpo: #0B1026;
+    --form-entrada: #11183A;
+    --form-borda: #5F74FF;
+    --form-foco: #9C8BFF;
 
     /* Textos */
-    --form-placeholder: #6E6E6E;
-    --txt-principal: #E6E0D2;
-    --txt-secundario: #BFB7A4;
-    --txt-observacoes: #8C8574;
-    --txt-destaque: #D6C089;
+    --form-placeholder: #6C73A8;
+    --txt-principal: #F2F5FF;
+    --txt-secundario: #B8C0FF;
+    --txt-observacoes: #7F86B5;
+    --txt-destaque: #8FD8FF;
 }
